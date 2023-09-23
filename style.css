@@ -2,9 +2,12 @@
 
 /* Estilos do body */
 body {
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+H2{
+    font-size: 80%;
 }
 
 /* Estilos do header e da navegação */
@@ -24,8 +27,8 @@ nav img {
 .logo_app{
     text-align: center;
     background-color: #f2f2f2;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     margin-bottom: 15px;
 }
 ul{
@@ -69,8 +72,8 @@ ul{
  background-color: #f2f2f2;
  box-shadow: 2px 2px 2px black;
  border-radius: 10px;
- height: 255px;
- width: 215px;
+ height: 210px;
+ width: 152px;
  display: inline-block;
  margin: 5px 5px;
 }
