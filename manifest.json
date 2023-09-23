@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "Apps da Renata Veras Venturim",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "renataverasventurim.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "renataverasventurim.github",
+  "start_url": "/Projects_of_mine/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
